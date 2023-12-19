@@ -1,0 +1,7 @@
+C:\git\project1\player\player\bin\Debug\player.exe.config
+C:\git\project1\player\player\bin\Debug\player.exe
+C:\git\project1\player\player\bin\Debug\player.pdb
+C:\git\project1\player\player\obj\Debug\player.csproj.AssemblyReference.cache
+C:\git\project1\player\player\obj\Debug\player.csproj.CoreCompileInputs.cache
+C:\git\project1\player\player\obj\Debug\player.exe
+C:\git\project1\player\player\obj\Debug\player.pdb
